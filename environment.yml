@@ -1,0 +1,31 @@
+name: mictotext
+channels:
+  - defaults
+dependencies:
+  - bzip2=1.0.8
+  - ca-certificates=2024.3.11
+  - libffi=3.4.4
+  - openssl=3.0.13
+  - pip=23.3.1
+  - python=3.11.7
+  - setuptools=68.2.2
+  - sqlite=3.45.3
+  - tk=8.6.12
+  - tzdata=2024a
+  - vc=14.2
+  - vs2015_runtime=14.27.29016
+  - wheel=0.41.2
+  - xz=5.4.6
+  - zlib=1.2.13
+  - pip:
+      - certifi==2024.2.2
+      - charset-normalizer==3.3.2
+      - click==8.1.7
+      - colorama==0.4.6
+      - gtts==2.5.1
+      - idna==3.7
+      - requests==2.31.0
+      - speechrecognition==3.10.3
+      - typing-extensions==4.11.0
+      - urllib3==2.2.1
+prefix: C:\Users\Zkorpio\anaconda3\envs\mictotext
